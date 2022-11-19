@@ -2,7 +2,8 @@
 Author: Han Young, <<ttt.pt.iii@gmail.com>>  
 Version: 0.0.0  
 Date: 2022. 11. 19.  
-Copyright: This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt).
+Copyright: This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt).  
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 ## introduction
 
